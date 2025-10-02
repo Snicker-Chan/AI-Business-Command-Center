@@ -56,7 +56,7 @@ A modern, AI-powered business management platform that consolidates all your ope
 ### Frontend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-business-command-center.git
+git clone https://github.com/Snicker-Chan/ai-business-command-center.git
 cd ai-business-command-center/frontend
 
 # Install dependencies
